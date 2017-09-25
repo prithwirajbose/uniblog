@@ -7,7 +7,7 @@ UniBlog is a Free and Open Source Blogging Platform which supports both Post bas
   3. Supports traditional blogging through descriptive posts and microblogging in a single web blog. It makes UniBlog just awesome! 
   4. Super Light weight and simple - extending the blog, writing custom features, custom templates was never so simple before on any other Blogging platform including Wordpress.
 
-UniBlog is made with love, care and great enthuciasm! UniBlog would surely change the way we have been blogging until now. A sleek, lightweight, absolutely portable, cloud supported Blogging platform which will merge Microbloggers and Traditional bloggers into one single platform! Our challenge is big - we target users of Twitter, Wordpress and Blogger! Let's make it happen.
+UniBlog is made with love, care and great enthuciasm! UniBlog would surely change the way we have been blogging until now. A sleek, lightweight, absolutely portable, cloud supported Blogging platform which will merge Microbloggers and Traditional bloggers into one single platform! Our challenge is big - we target users of Twitter, Wordpress and Blogger! Let's make it happen. UniBlog project is sponsored by [jujubuy.com](https://jujubuy.com "online electronic components shop") 
 
 ## How to Start Uniblog
 
